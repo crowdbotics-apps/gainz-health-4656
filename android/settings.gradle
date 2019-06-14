@@ -1,0 +1,3 @@
+rootProject.name = 'gainz_health_4656'
+
+include ':app'
